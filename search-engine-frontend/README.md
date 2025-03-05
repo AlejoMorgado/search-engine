@@ -10,7 +10,7 @@ To get started with this project, follow these steps:
 
    ```sh
    git clone <repository-url>
-   cd search-engine
+   cd search-engine-frontend
    ```
 
 2. Install the dependencies:
